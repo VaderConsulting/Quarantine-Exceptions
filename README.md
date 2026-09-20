@@ -1,6 +1,6 @@
 # Quarantine Exceptions
 
-VB6 working copy of `Quarantine Exceptions` from Dave Robinson's OneDrive Historical Dev `VB/Old` folder. Project title: Project1. Output: `Quarantine Exceptions.exe`. `VersionCompanyName`: CSC. Contains 2 project files.
+CSC VB6 Quarantine Exemptions Application (`Quarantine Exceptions.exe`): reads Trend SMEX `redalert.log` from selected Exchange servers, parses quarantine hits, and uses CDO/ADO for exemptions. Open `Quarantine Exceptions.vbp` in the VB6 IDE.
 
 **Source last updated:** 2026-08-27 · **Language:** VB6 · **Target:** VB6 Win32 · **Output:** WinForms exe
 
